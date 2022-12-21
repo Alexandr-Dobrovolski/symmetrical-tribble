@@ -1,0 +1,36 @@
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\bin\Debug\net6.0\ref\EmployeeLibrary.dll
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\Lab-1-master\Lab-1-master\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\bin\Debug\net6.0\ref\EmployeeLibrary.dll
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll
+E:\😐Desktop😐\C#Net\Lab-1-master\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\refint\EmployeeLibrary.dll
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+D:\учеба\c#\1 lb\Lab-1 (1)\Lab-1\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll
